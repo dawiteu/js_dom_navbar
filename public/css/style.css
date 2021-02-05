@@ -85,7 +85,7 @@ nav div#collapse ul li a{
         display:flex;
     }
     nav div#collapse{
-        background-color: green;
+        /* background-color: green; */
     }
 }
 
@@ -93,7 +93,7 @@ nav div#collapse ul li a{
 
 @media screen and (min-width: 992px) and (max-width: 1200px){
     nav div#collapse{
-        background-color: yellow;
+        /* background-color: yellow; */
     }
 }
 
@@ -106,6 +106,6 @@ nav div#collapse ul li a{
     nav div#collapse{
         
         width:50%;
-        background-color: pink;
+        /* background-color: pink; */
     }
 }
